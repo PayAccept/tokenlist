@@ -1,0 +1,33 @@
+{
+          "name": "PayAccept Token List",
+          "timestamp": "2020-09-24T03:56:36.147Z",
+          "version": {
+            "major": 1,
+            "minor": 7,
+            "patch": 0
+          },
+          "tags": {},
+          "logoURI": "https://dnkplacumu1sr.cloudfront.net/crypto_com_logo.svg",
+          "keywords": [
+            "defi",
+            "swap"
+          ],
+          "tokens": [
+	    {
+		            "name": "NEXT.exchange Token",
+                "address": "0xC8beD358892C8fe74Bc3F9C8Ef1E43CB102eEd45",
+                "symbol": "NEXT",
+                "decimals": 18,
+                "chainId": 3,
+                "logoURI": "https://next.exchange/favicon/apple-icon.png"
+	    },
+	    {
+                "name": "PayAccept Token",
+                "address": "0xd234be7943094c3c9a2816dd660d2ba720e93977",
+                "symbol": "PAYT",
+                "decimals": 18,
+                "chainId": 3,
+                "logoURI": "https://www.payaccept.net/img/apple-touch-icon.png"
+            }
+          ]
+        }
